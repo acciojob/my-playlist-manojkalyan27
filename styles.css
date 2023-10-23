@@ -4,13 +4,7 @@ a{
 	color: black;
 	list-style:none; 
 }
-ul{
-	margin: px 0px;
-}
-h1{
-	text-align: center;
-}
-h2{
+h1,h2{
 	text-align: center;
 }
 body{
@@ -20,9 +14,7 @@ body{
 	border: 1px solid black;
 	border-radius: 5px;
 	background-color: rgb(255, 255, 255);
-	padding-left: 5px;
-	
-	
+	padding-left: 5px;	
 }
 footer{
 	border: 1px solid black;
@@ -39,7 +31,6 @@ video{
 li{
 	list-style-type: none;
 	margin-left: 10px;
-	
 }
 h2{
 	margin-top: -10px;
